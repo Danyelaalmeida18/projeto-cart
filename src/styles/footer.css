@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+Footer{
+ margin-top: 30px;
+ width: 100%;
+ text-align: center;
+ color: aliceblue;
+ font-size: 20px; 
+ padding-bottom: 20px;
+
+}
+.box_footer{
+    text-align: 20px;
+    color: rgb(3, 48, 3);
+    font-size: 15px;
+
+}
+.rede_sociais{
+    color: rgb(11, 182, 62);
+    font-size: 25px;
+    display:grid;
+    margin-top: 10px;
+    grid-template-columns: repeat(4, 0fr);
+    margin-left: 46%;
+}
+
+ 
+
+    

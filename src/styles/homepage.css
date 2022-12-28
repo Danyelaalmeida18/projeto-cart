@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.warning{
+    height: 40px;
+    width: 300px;
+    position: absolute;
+    right: 0;
+    top: 10%;
+    background-color: rgb(10, 13, 204);
+    font-size: 1.2rem;
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+}
